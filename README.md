@@ -51,5 +51,6 @@ Communication
 
 ![Architecture Diagram](https://raw.githubusercontent.com/pzanzane/Clean-architechture/master/VIP'R2.png)
 
+--------------------------------------------------------------------------------------------------------------------
 
 ![Data Rference](https://raw.githubusercontent.com/pzanzane/Clean-architechture/master/object%20references.png)
