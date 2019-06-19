@@ -50,3 +50,6 @@ Communication
 	- The communication between the components is done with protocols. Each component will contain protocols which will be used for receiving and passing data between them. Worker communicates with Interactor, then Interactor with Presenter and Presenter with ViewController.
 
 ![Architecture Diagram](https://raw.githubusercontent.com/pzanzane/Clean-architechture/master/VIP'R2.png)
+
+
+![Data Rference](https://raw.githubusercontent.com/pzanzane/Clean-architechture/master/object%20references.png)
