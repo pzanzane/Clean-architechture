@@ -48,3 +48,5 @@ Note: Organize each use case under a new group nested within Scenes.
 
 Communication
 	- The communication between the components is done with protocols. Each component will contain protocols which will be used for receiving and passing data between them. Worker communicates with Interactor, then Interactor with Presenter and Presenter with ViewController.
+
+(https://raw.githubusercontent.com/pzanzane/Clean-architechture/master/VIP'R.png)
